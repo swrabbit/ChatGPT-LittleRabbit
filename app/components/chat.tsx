@@ -521,7 +521,7 @@ export function ChatActions(props: {
         }}
       />
 
-      <ChatAction
+      {/* <ChatAction 不显示切换大模型组件按钮
         onClick={() => setShowModelSelector(true)}
         text={currentModel}
         icon={<RobotIcon />}
@@ -544,7 +544,7 @@ export function ChatActions(props: {
             showToast(s[0]);
           }}
         />
-      )}
+      )} */}
     </div>
   );
 }

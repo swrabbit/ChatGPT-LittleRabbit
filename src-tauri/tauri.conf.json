@@ -104,7 +104,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "ChatGPT LRabbit",
+        "title": "ChatGPT-4 RabbitAI",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
