@@ -522,7 +522,7 @@ export function ChatActions(props: {
       />
 
       <ChatAction
-        onClick={() => setShowModelSelector(true)} // Supaleyer
+        onClick={() => setShowModelSelector(false)} // Supaleyer
         text={currentModel}
         icon={<RobotIcon />}
       />
