@@ -6,7 +6,7 @@ import { getClientConfig } from "./config/client";
 import { type Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "ChatGPT-4 RabbitAI",
+  title: "ChatGPT RabbitAI",
   description: "Your personal ChatGPT Chat Bot.",
   viewport: {
     width: "device-width",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "ChatGPT-4 RabbitAI",
+    title: "ChatGPT RabbitAI",
     statusBarStyle: "default",
   },
 };

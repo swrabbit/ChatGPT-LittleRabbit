@@ -530,7 +530,7 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>ChatGPT-4 RabbitAI</div>
+            <div className={styles["main-title"]}>ChatGPT RabbitAI</div>
             <div className={styles["sub-title"]}>
               github.com/Yidadaa/ChatGPT-Next-Web
             </div>
